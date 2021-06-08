@@ -17,3 +17,4 @@ RESPOND-3:PRESS '-1' to QUIT the game (RULE:YOU CANNOT QUIT THE GAME,IF ANY OF T
 ASSUMPTIONS MADE IN THE ASSIGNMENT:
 1.User doesn't type anything else,other then what is instructed on screen.
 2.If user doesn't type what is instructed,the game won't run accordingly.
+Yo
